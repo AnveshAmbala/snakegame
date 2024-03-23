@@ -24,4 +24,4 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Snake-Game.git
+   git clone https://github.com/AnveshAmbala/Snake-Game.git
