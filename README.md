@@ -2,7 +2,7 @@
 
 <img src="https://gifdb.com/images/high/animated-snake-it-make-it-3a3pd0wfrnb3mtu0.gif" alt="Snake Game Demo" width="300"/>
 
-🔥 Classic Snake game implemented in Python using Pygame. 🎉
+🔥 Classic Snake game implemented using Javascript. 🎉
 
 ## Features 🚀
 
